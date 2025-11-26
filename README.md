@@ -30,7 +30,7 @@ ETL • Data Cleaning • Visualization • Dashboarding • Reporting Automatio
 #### 🔹 **Amazon Sales Analysis Dashboard (Power BI)**
 Interactive dashboard analysing 2M+ customer reviews & ₹18L+ sales trends.  
 **Tech:** Power BI, Power Query  
-👉 *Repo:* (Add link to repo)
+👉 *Repo:* https://github.com/Umang0210/Amazon-Sales-Analysis-Dashboard-Power-BI
 
 ---
 
