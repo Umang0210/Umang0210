@@ -49,14 +49,6 @@ Automated 25+ daily reports using Python + Excel workflows.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Umang0210&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang0210&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### ✉️ Connect With Me
 - **LinkedIn:** www.linkedin.com/in/umang0210  
