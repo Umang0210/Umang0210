@@ -1,21 +1,85 @@
-# 💫 About Me:
-I’m a data and analytics enthusiast with hands-on internship experience in data analysis, automation, and dashboarding using Python, SQL, Power BI, and Excel. I’m currently focused on strengthening my analytical thinking, building scalable data solutions, and learning advanced analytics workflows. I enjoy collaborating with like-minded people on impactful projects and turning raw data into clear, actionable insights. Feel free to reach out if you want to discuss data, analytics, automation, or potential collaborations.
+# Umang Garg
 
+Data & Analytics professional working on **real-world data problems** — analysis, automation, dashboards, and applied machine learning.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_umangarg_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umanggarg0210/) 
+I focus on building **end-to-end data systems**: from raw data ingestion to insights, models, and decision-ready outputs.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Umang0210&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Umang0210&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umang0210&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Umang0210&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## Core Competencies
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Umang0210&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Data analysis & exploratory data analysis (EDA)
+- SQL-based data querying and data modeling
+- Business analytics, KPI tracking, and reporting
+- Machine learning: regression, classification, preprocessing, evaluation
+- Workflow automation and process optimization
+- Data cleaning, validation, and transformation
+- Turning ambiguous business problems into structured data solutions
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Technical Skills
+
+### Programming & Query Languages
+- Python  
+- SQL  
+
+### Data Science & Machine Learning
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Statsmodels  
+
+### Data Analytics & BI
+- Power BI  
+- Advanced Excel (formulas, pivots, automation)  
+- Trend analysis & KPI monitoring  
+
+### Databases
+- MySQL  
+- MongoDB  
+
+### Automation & Engineering Tools
+- n8n  
+- Docker  
+- Git & GitHub  
+
+---
+
+## Selected Project Areas
+
+- **Data Analytics Projects**  
+  Business-focused analysis with measurable KPIs and insights.
+
+- **Machine Learning Implementations**  
+  Practical ML models with proper preprocessing, evaluation, and interpretation.
+
+- **Automation Systems**  
+  Workflow orchestration, alerts, and operational process automation.
+
+Each repository includes a clear problem statement, methodology, and outcome.
+
+---
+
+## Current Focus
+
+- Advanced SQL and data modeling  
+- Building industry-grade analytics projects  
+- Operational analytics and automation use cases  
+- Improving code quality, documentation, and reproducibility  
+
+---
+
+## How to Use This Profile
+
+If you are reviewing this profile:
+- Start with pinned repositories  
+- Read project READMEs before code  
+- Focus on **outcomes**, not just notebooks  
+
+---
+
+## Contact
+
+- LinkedIn: add-your-link-here  
+- Email: add-your-email-here
