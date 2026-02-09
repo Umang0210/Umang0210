@@ -8,7 +8,7 @@ I am a passionate **Computer Science and Engineering student** at **Lovely Profe
 
 ## 🚀 About Me
 
-- 🎓 **Education**: B.Tech in Computer Science and Engineering (2023-2027), CGPA: 7.10
+- 🎓 **Education**: B.Tech in Computer Science and Engineering (2023-2027)
 - 💼 **Experience**: Former **Data Analyst Intern** at Howden Insurance Brokers Pvt. Ltd.
 - 🧠 **Interests**: Machine Learning, MLOps, Data Analytics, Cloud Computing (AWS).
 - 🎯 **Goal**: To leverage data and AI to drive business decisions and operational efficiency.
