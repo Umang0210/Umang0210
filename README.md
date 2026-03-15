@@ -149,20 +149,6 @@ Sales performance BI solution built with a star schema data model.
 
 ---
 
-### ⚪ [Business Landscape Analysis](https://github.com/Umang0210/Business_Landscape_Analysis)
-> `Python` `Excel`
-
-Exploratory business intelligence analysis using Python and Excel for market benchmarking.
-
----
-
-### ⚫ [Sports Analytics — T20 Cricket](https://github.com/Umang0210/Sports_Analysis)
-> `Python` `Jupyter` `Power BI`
-
-T20 cricket performance analytics with statistical modelling and visual storytelling.
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | ID |
