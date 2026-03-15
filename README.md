@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Umang%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20MLOps%20Enthusiast&descSize=16&descAlignY=58&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=200&section=header&text=Umang%20Garg&fontSize=52&fontColor=58a6ff&fontAlignY=42&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20MLOps%20Enthusiast&descSize=16&descAlignY=62&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+end-to-end+intelligent+systems+%F0%9F%A4%96;From+raw+data+%E2%86%92+ML+model+%E2%86%92+production+deploy+%F0%9F%9A%80;Power+BI+%7C+Python+%7C+AWS+%7C+Docker+%7C+Kubernetes;Open+to+Data+Science+%26+Analytics+roles+%F0%9F%93%AC)](https://git.io/typing-svg)
 
@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umanggarg0210/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umang0210)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umang0210@email.com)
 
 </div>
 
@@ -200,5 +199,5 @@ If you're looking for someone who builds **production-ready data pipelines, ML s
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=60&section=footer&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
 </div>
